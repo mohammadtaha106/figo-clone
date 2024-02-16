@@ -1,0 +1,25 @@
+.btn_sec_2{
+font-size: 18px !important;
+    padding: 10px !important;
+    background-color: #6CA238 !important;
+}
+.text_div{
+    padding: 150px !important;
+}
+.reason-card{
+    border-bottom: 2px solid transparent;
+}
+.reason-card:hover{
+    border-bottom: 2px solid #6CA238 ;
+}
+.menu-bar{
+    border-left: 3px solid rgba(128, 128, 128, 0.5);
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+}
+.menu-bar:hover{
+    border-left: 3px solid orange;
+}
+.mt-10{
+    margin-top: 100px !important ;
+}
